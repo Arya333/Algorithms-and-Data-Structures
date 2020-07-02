@@ -58,6 +58,7 @@ public class MergeSort {
         }
     }
     
+    //Complexity of O(nlogn)
     public static void main(String[] args) {
         MergeSort m = new MergeSort();
         int[] test = {4, 6, 8, 10, 17, 34, 25, 89, 34, 90, 101, 45};
